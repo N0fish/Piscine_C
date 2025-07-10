@@ -44,7 +44,7 @@ Ce parcours intensif d’un mois couvre les bases du shell UNIX et du langage C,
 
 ### Rush01
 
-<a href="./subject//PiscineC_Rush01">Projet</a> d'équipe — résolution d’un puzzle logique (type Skyscraper 4x4) avec `malloc`, `write`, `free`.
+<a href="./subject/PiscineC_Rush01.pdf">Projet</a> d'équipe — résolution d’un puzzle logique (type Skyscraper 4x4) avec `malloc`, `write`, `free`.
 
 </details>
 
@@ -87,7 +87,7 @@ This intensive one-month program covers UNIX shell basics and C language fundame
 
 ### Rush01
 
-Team <a href="./subject//PiscineC_Rush01">project</a> — solve a 4x4 logical puzzle (Skyscraper) using only `malloc`, `write`, and `free`.
+Team <a href="./subject/PiscineC_Rush01.pdf">project</a> — solve a 4x4 logical puzzle (Skyscraper) using only `malloc`, `write`, and `free`.
 
 </details>
 
@@ -130,7 +130,7 @@ Team <a href="./subject//PiscineC_Rush01">project</a> — solve a 4x4 logical pu
 
 ### Rush01
 
-Командный <a href="./subject//PiscineC_Rush01">проект</a> — решение логической задачи (Skyscraper 4x4) с помощью `malloc`, `write`, `free`.
+Командный <a href="./subject/PiscineC_Rush01.pdf">проект</a> — решение логической задачи (Skyscraper 4x4) с помощью `malloc`, `write`, `free`.
 
 </details>
 
